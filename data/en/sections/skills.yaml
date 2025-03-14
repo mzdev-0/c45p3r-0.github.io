@@ -77,6 +77,18 @@ skills:
     categories: ["basic"]
     url: "https://prometheus.io/"
 
+  - name: Ansible
+    logo: images/sections/skills/prometheus.png
+    summary: "TBD"
+    categories: ["basic"]
+    url: "https://prometheus.io/"
+
+  - name: Terraform
+    logo: images/sections/skills/prometheus.png
+    summary: "TBD"
+    categories: ["basic"]
+    url: "https://prometheus.io/"
+
   - name: Linux
     logo: images/sections/skills/linux.png
     summary: "My main OS. Experienced with bash scripting and at home on a terminal. (I use Arch btw)"

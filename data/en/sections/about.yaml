@@ -7,14 +7,14 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # your designation
-designation: Software Engineer
+designation: Devops Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Ghostfrnd, LLC
+  url: "https://ghostfrnd.co"
 
 # a summary about you
-summary: "I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc."
+summary: "Personable, versatile and self-motivated technical professional with expertise in virtualization, automation, and security, recognized for patience and strong problem solving skills."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -34,7 +34,7 @@ socialLinks:
 # your resume. this file path should be relative to you "static" directory
 resourceLinks:
   - title:
-      "My Resume"
+      "Resume"
       #  url: "files/resume.pdf"
 
 # Show your badges
@@ -42,19 +42,19 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
   - type: certification
-    name: Certified Kubernetes Security Specialist
-    url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-    badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+    name: Certified Kubernetes Administrator
+    url: "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"
+    badge: "https://training.linuxfoundation.org/wp-content/uploads/2018/06/logo_cka_whitetext.png"
 
   - type: certification
-    name: Istio and IBM Cloud Kubernetes Service
-    url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-    badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+    name: Azure Administrator Associate
+    url: "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"
+    badge: "https://intunedin.net/wp-content/uploads/2020/09/azure-administrator-associate-600x600-1.png?w=600"
 
   - type: certification
-    name: Artificial Intelligence and Machine Learning
-    url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-    badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+    name: Hack the Box Penetration testing Specialist
+    url: "https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/"
+    badge: "https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png"
 
   - type: soft-skill-indicator
     name: Leadership
