@@ -17,8 +17,8 @@ buttons:
     filter: "basic"
   - name: Language
     filter: "language"
-  - name: Container
-    filter: "container"
+  - name: Infrastructure
+    filter: "infrastructure"
   - name: Others
     filter: "others"
 
@@ -27,25 +27,30 @@ buttons:
 skills:
   - name: Kubernetes
     logo: images/sections/skills/kubernetes.png
-    summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-    categories: ["container"]
+    summary: "Capable of deploying and managing application on Kubernetes. Host my own local K3s cluster with a plethora of services."
+    categories: ["infrastructure"]
     url: "https://kubernetes.io/"
 
-  - name: Go Development
+  - name: Go
     logo: assets/images/sections/skills/go.png
-    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+    summary: "Using as my main language for professional development. Capable of writing scalable, testable, and maintainable applications."
     categories: ["basic", "language"]
     url: "https://golang.org/"
 
+  - name: Python
+    logo: images/sections/skills/c++.png
+    summary: "Second-most proficient language. Used to automate cybersecurity tooling as well as with AI development utilizing frameworks like Langchain."
+    categories: ["basic", "language"]
+
   - name: Cloud Computing
     logo: images/sections/skills/cloud.png
-    summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+    summary: "Professional experience in Azure, but also proficient in AWS and GCP."
     categories: ["others"]
 
   - name: Docker
     logo: images/sections/skills/docker.svg
-    summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-    categories: ["container"]
+    summary: "Docker is an integral part of my testing pipeline. Used primarily for quick deployment and iterative development."
+    categories: ["infrastructure"]
     url: "https://www.docker.com/"
 
   - name: Prometheus
@@ -54,18 +59,36 @@ skills:
     categories: ["basic"]
     url: "https://prometheus.io/"
 
+  - name: Grafana
+    logo: images/sections/skills/prometheus.png
+    summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+    categories: ["basic"]
+    url: "https://prometheus.io/"
+
+  - name: Argocd
+    logo: images/sections/skills/prometheus.png
+    summary: "I host my own Argocd server on my local cluster. Used primarily in conjunction with forgejo for CI/CD operations."
+    categories: ["basic"]
+    url: "https://prometheus.io/"
+
+  - name: Networking
+    logo: images/sections/skills/prometheus.png
+    summary: "TBD"
+    categories: ["basic"]
+    url: "https://prometheus.io/"
+
   - name: Linux
     logo: images/sections/skills/linux.png
-    summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+    summary: "My main OS. Experienced with bash scripting and at home on a terminal. (I use Arch btw)"
     categories: ["others"]
 
   - name: Git
     logo: images/sections/skills/git.png
-    summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+    summary: "Experienced with git-based development. Self-host my own forgejo git server for local CI/CD workflows"
     categories: ["basic"]
     url: "https://git-scm.com/"
 
   - name: C++
     logo: images/sections/skills/c++.png
-    summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+    summary: "Basic familiarity with C++. Used primarily to learn about Windows Internals, malware reverse engineering, and development."
     categories: ["basic", "language"]
