@@ -32,7 +32,7 @@ skills:
     url: "https://kubernetes.io/"
 
   - name: Go
-    logo: assets/images/sections/skills/go.png
+    logo: images/sections/skills/go.png
     summary: "Using as my main language for professional development. Capable of writing scalable, testable, and maintainable applications."
     categories: ["basic", "language"]
     url: "https://golang.org/"
@@ -83,7 +83,7 @@ skills:
     categories: ["basic"]
     url: "https://prometheus.io/"
 
-  - name: Terraform
+  - name: Networking
     logo: images/sections/skills/prometheus.png
     summary: "TBD"
     categories: ["basic"]

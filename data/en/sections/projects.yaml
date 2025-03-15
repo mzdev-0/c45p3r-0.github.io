@@ -21,45 +21,45 @@ buttons:
 
 # your projects
 projects:
-  - name: Kubernetes
+  - name: Local Self-Hosted Kubernetes Cluster
     logo: /images/sections/projects/kubernetes.png
-    role: Contributor
-    timeline: "March 2018 - Present"
+    role: Owner
+    timeline: "Jan 2024 - May 2024"
     repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
     #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
     summary: Production-Grade Container Scheduling and Management.
     tags: ["professional", "kubernetes", "cloud"]
 
-  - name: Tensorflow
+  - name: Private CI/CD Pipeline
     logo: /images/sections/projects/tensorflow.png
-    role: Developer
-    timeline: "Jun 2018 - Present"
+    role: Owner
+    timeline: "March 2024 - September 2024"
     repo: https://github.com/tensorflow/tensorflow
     #url: ""
-    summary: An Open Source Machine Learning Framework for Everyone.
-    tags: ["professional", "machine-learning"]
+    summary: Deployed a complete CI/CD Pipeline on my home cluster with my own git server, argocd, ansible, and git(forgejo) actions
+    tags: ["academic", "argocd", "git", "ansible", "terraform"]
 
-  - name: A sample academic paper
-    role: Team Lead
-    timeline: "Jan 2017 - Nov 2017"
+  - name: Home Lab Network Hardening
+    role: Owner
+    timeline: "Jan 2025 - Present"
     url: "https://www.example.com"
-    summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-    tags: ["academic", "iot"]
+    summary: Taken significant steps toward hardening my home network. TBD
+    tags: ["academic", "firewall", "networking", "security"]
 
-  - name: Nocode
+  - name: Media Server
     logo: /images/sections/projects/no-code.png
-    role: Nothing
-    timeline: "Oct 2019 - Dec 2019"
+    role: Owner
+    timeline: "Nov 2023 - Present"
     repo: https://github.com/kelseyhightower/nocode
     #url: ""
-    summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+    summary: Essentially everything from all your favorite streaming services available in a central location, all hosted locally at home. Complete with automated media procurement and storage management. All monitored with Prometheus & Grafana.
     tags: ["hobby", "fun"]
 
-  - name: Toha
+  - name: Local AI Chatbot Web Application
     logo: /images/sections/projects/toha.png
     image: /images/sections/projects/toha_website.png
-    role: Owner
-    timeline: "Jun 2019 - Present"
+    role: Developer
+    timeline: "Nov 2024 - Present"
     repo: https://github.com/hossainemruz/toha
-    summary: A Hugo theme for personal portfolio.
-    tags: ["hobby", "hugo", "theme", "professional"]
+    summary: In an effort to maintain some semblance of privacy, I built my own inference server out of several nvidia GPUs, then I customized OpenWebUI with my own RAG pipeline in order to better utilize the plethora of notes I've accumulated over time.
+    tags: ["hobby", "AI", "Web Developement", "RAG"]

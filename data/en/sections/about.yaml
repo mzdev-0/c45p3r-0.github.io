@@ -14,7 +14,7 @@ company:
   url: "https://ghostfrnd.co"
 
 # a summary about you
-summary: "Personable, versatile and self-motivated technical professional with expertise in virtualization, automation, and security, recognized for patience and strong problem solving skills."
+summary: "Personable, versatile and self-motivated technical professional with expertise in virtualization, automation, and security, recognized for patience and strong problem solving skills. After a career on the Systems Admin and Engineer, I decided to teach myself Devops. In doing so I accidentally created a production-level environment in my home lab."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -55,18 +55,3 @@ badges:
     name: Hack the Box Penetration testing Specialist
     url: "https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/"
     badge: "https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png"
-
-  - type: soft-skill-indicator
-    name: Leadership
-    percentage: 85
-    color: blue
-
-  - type: soft-skill-indicator
-    name: Team Work
-    percentage: 90
-    color: yellow
-
-  - type: soft-skill-indicator
-    name: Hard Working
-    percentage: 85
-    color: orange

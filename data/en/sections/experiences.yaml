@@ -10,28 +10,51 @@ section:
 # Your experiences
 experiences:
   - company:
-      name: Example Co.
-      url: "https://www.example.com"
-      location: Dhaka Branch
+      name: Ghostfrnd, LLC
+      url: "https://ghostfrnd.co"
+      location: Chicago
       logo: /images/experiences/company.png
       darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: Personal venture in Freelance Devops and IT.
     positions:
-      - designation: Senior Software Engineer
-        start: Nov 2019
+      - designation: Founder, Devops Engineer
+        start: March 2024
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Design and develop XYZ tool for ABC task
-          - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-          - Lead backend team.
+          - TBD.Something like--  Designed, developed, and managed infrastructure for numerous clients.
+          - Developed backup and disaster recovery solutions
+          - Configured infrastructure in compliance with (List policies like NIST and others)
+          - Deployed onto Azure and AWS utilizing best practices, saving clients time and money along the way.
+          - Deployed Monitoring for the clients and achieved good observability utilizing prominent monitoring stacks like Prometheus and Grafana
 
-      - designation: Junior Software Engineer
-        start: Nov 2017
-        end: Oct 2019
+  - company:
+      name: Temple & Associates
+      url: "https://temple-it.com"
+      location: Chicago
+      overview: MSP based in Dallas serving clients in the Chicagoland area.
+    positions:
+      - designation: Systems Engineer
+        start: Nov 2022
+        end: Mar 2024
         responsibilities:
-          - Implement and test xyz feature for abc tool.
-          - Support client for abc tool.
-          - Learn k,d,w technology for xyz.
+          - Something about how I closed a lot of tickets for many clients, juggling multiple at a time. Mention high success rate in troubleshooting issues
+          - Held a leadership role in several projects including hardware upgrades, cloud migrations. Mention switches, firewalls, Azure.
+          - Handled several security incidents with clients. Stopped ransomware attacks in progress. Successfully utilized disaster recovery implementations so clients experienced minimal downtime and limited loss of data
+          - Handled backups and updates for several clients, ensuring minimal attack surface and great user experience.
+
+  - company:
+      name: Casnet Services (Freelance)
+      location: Chicago
+      overview: Freelance work as a Field Engineer handling a varied set of responsibilities.
+    positions:
+      - designation: Field Engineer
+        start: Aug 2018
+        end: Nov 2022
+        responsibilities:
+          - Displayed great time management skills in handling emergency calls with no notice. Gained a reputation for being able to put out fires efficiently and (something about how I'm nice while doing it. A lot of repeat customers)
+          - Complted a lot of hardware deployments including firewalls, switches, (more).
+          - Saved client's time and money by working with limited resources in order to avoid having to replace equipment in times where it was thought that was necessary in order to resolve issues.
+          - Accumulated many repeat clients due to my sociability and ability to clearly explain complex technical issues to non-technical persons.
