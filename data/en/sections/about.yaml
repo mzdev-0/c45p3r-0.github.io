@@ -25,11 +25,11 @@ socialLinks:
 
   - name: Github
     icon: "fab fa-github"
-    url: "https://github.com/c45p3r-0"
+    url: "https://github.com/mzdev-0"
 
   - name: LinkedIn
     icon: "fab fa-linkedin"
-    url: "#"
+    url: "https://linkedin.com/u/mzander-"
 
 # your resume. this file path should be relative to you "static" directory
 resourceLinks:

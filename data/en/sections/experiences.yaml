@@ -24,11 +24,10 @@ experiences:
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - TBD.Something like--  Designed, developed, and managed infrastructure for numerous clients.
-          - Developed backup and disaster recovery solutions
-          - Configured infrastructure in compliance with (List policies like NIST and others)
-          - Deployed onto Azure and AWS utilizing best practices, saving clients time and money along the way.
-          - Deployed Monitoring for the clients and achieved good observability utilizing prominent monitoring stacks like Prometheus and Grafana
+          - Utilized Terraform for Infrastructure as Code (IaC) to automate the provisioning of diverse cloud infrastructure stacks, including Kubernetes environments and associated application deployments, significantly reducing manual effort and cutting setup times by 70%
+          - Integrated comprehensive monitoring capabilities using Prometheus, Grafana, and AWS CloudWatch into existing infrastructures, significantly improving system visibility and achieving an 80% reduction in MTTR.
+          - Resolved diverse deployment failures through systematic troubleshooting by analyzing monitoring data, inspecting Kubernetes resources, and reviewing relevant code/configurations, resulting in faster recovery times and informing key pipeline optimizations.
+          - Engineered and automated CI/CD workflows using GitHub Actions, Terraform, Kubernetes, and ArgoCD, replacing manual deployment procedures and enabling consistent, reliable releases.
 
   - company:
       name: Temple & Associates
@@ -40,13 +39,12 @@ experiences:
         start: Nov 2022
         end: Mar 2024
         responsibilities:
-          - Something about how I closed a lot of tickets for many clients, juggling multiple at a time. Mention high success rate in troubleshooting issues
-          - Held a leadership role in several projects including hardware upgrades, cloud migrations. Mention switches, firewalls, Azure.
-          - Handled several security incidents with clients. Stopped ransomware attacks in progress. Successfully utilized disaster recovery implementations so clients experienced minimal downtime and limited loss of data
-          - Handled backups and updates for several clients, ensuring minimal attack surface and great user experience.
+          - Resolved identity, access, and security issues involving VPN connectivity failures, MFA reset issues, and account lockouts resulting in minimized user downtime and increased security posture.
+          - Automated routine maintenance including patching, security updates, and health alerts for critical infrastructure using tools such as powershell and PRTG, ensuring system stability and security compliance while also reducing required man-hours by 50%.
+          - Designed and executed standardized procedure for user onboarding and offboarding processes, ensuring timely access for new hires and secure removal of access upon departure.
 
   - company:
-      name: Casnet Technologies
+      name: MZ-IT
       location: Chicago
       overview: Freelance work as a Field Engineer handling a varied set of responsibilities.
     positions:
@@ -54,7 +52,6 @@ experiences:
         start: Aug 2018
         end: Nov 2022
         responsibilities:
-          - Displayed great time management skills in handling emergency calls with no notice. Gained a reputation for being able to put out fires efficiently and (something about how I'm nice while doing it. A lot of repeat customers)
-          - Complted a lot of hardware deployments including firewalls, switches, (more).
-          - Saved client's time and money by working with limited resources in order to avoid having to replace equipment in times where it was thought that was necessary in order to resolve issues.
-          - Accumulated many repeat clients due to my sociability and ability to clearly explain complex technical issues to non-technical persons.
+          - Provided rapid on-site incident response for critical outages. Systematically diagnosed complex, often undocumented, hardware, software, or network failures resulting in minimized client downtime and expediant restoration of critical services.          - Complted a lot of hardware deployments including firewalls, switches, (more).
+          - Deployed and performed initial configuration of core network hardware including racks, switches, firewalls, routers, and access points in a variety of client environments resulting in successful project completion that was completed within budget and on time.
+          - Operated across numerous client environments with varying levels of documentation, diverse hardware/software stacks, and unique operational requirements, demonstrating adaptability and interpersonal skills.

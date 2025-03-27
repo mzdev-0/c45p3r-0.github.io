@@ -31,6 +31,12 @@ skills:
     categories: ["infrastructure"]
     url: "https://kubernetes.io/"
 
+  - name: Terraform
+    logo: images/sections/skills/terraform.png
+    summary: "TBD"
+    categories: ["basic"]
+    url: "https://prometheus.io/"
+
   - name: Go
     logo: images/sections/skills/go.png
     summary: "Using as my main language for professional development. Capable of writing scalable, testable, and maintainable applications."
@@ -38,13 +44,13 @@ skills:
     url: "https://golang.org/"
 
   - name: Python
-    logo: images/sections/skills/c++.png
+    logo: images/sections/skills/python.png
     summary: "Second-most proficient language. Used to automate cybersecurity tooling as well as with AI development utilizing frameworks like Langchain."
     categories: ["basic", "language"]
 
-  - name: Cloud Computing
+  - name: Cloud Providers
     logo: images/sections/skills/cloud.png
-    summary: "Professional experience in Azure, but also proficient in AWS and GCP."
+    summary: "Experienced in AWS, GCP, and Azure"
     categories: ["others"]
 
   - name: Docker
@@ -60,31 +66,19 @@ skills:
     url: "https://prometheus.io/"
 
   - name: Grafana
-    logo: images/sections/skills/prometheus.png
+    logo: images/sections/skills/grafana.png
     summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
     categories: ["basic"]
     url: "https://prometheus.io/"
 
   - name: Argocd
-    logo: images/sections/skills/prometheus.png
+    logo: images/sections/skills/argocd.png
     summary: "I host my own Argocd server on my local cluster. Used primarily in conjunction with forgejo for CI/CD operations."
     categories: ["basic"]
     url: "https://prometheus.io/"
 
-  - name: Networking
-    logo: images/sections/skills/prometheus.png
-    summary: "TBD"
-    categories: ["basic"]
-    url: "https://prometheus.io/"
-
   - name: Ansible
-    logo: images/sections/skills/prometheus.png
-    summary: "TBD"
-    categories: ["basic"]
-    url: "https://prometheus.io/"
-
-  - name: Networking
-    logo: images/sections/skills/prometheus.png
+    logo: images/sections/skills/ansible.png
     summary: "TBD"
     categories: ["basic"]
     url: "https://prometheus.io/"
