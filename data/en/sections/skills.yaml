@@ -27,74 +27,80 @@ buttons:
 skills:
   - name: Kubernetes
     logo: images/sections/skills/kubernetes.png
-    summary: "Capable of deploying and managing application on Kubernetes. Host my own local K3s cluster with a plethora of services."
+    summary: "Used professionally to deploy and manage applications, but also the backbone of my homelab. Comfortable managing resources, networking, and troubleshooting cluster operations."
     categories: ["infrastructure"]
     url: "https://kubernetes.io/"
 
   - name: Terraform
     logo: images/sections/skills/terraform.png
-    summary: "TBD"
+    summary: "My go-to for Infrastructure as Code. Used extensively to provision and manage cloud resources (AWS, GCP, Azure) and automate the setup of complex environments, including Kubernetes clusters"
     categories: ["basic"]
-    url: "https://prometheus.io/"
 
   - name: Go
     logo: images/sections/skills/go.png
-    summary: "Using as my main language for professional development. Capable of writing scalable, testable, and maintainable applications."
+    summary: "My primary language for professional development. Focused on writing scalable, testable, and maintainable backend services and automation tooling."
     categories: ["basic", "language"]
     url: "https://golang.org/"
 
   - name: Python
     logo: images/sections/skills/python.png
-    summary: "Second-most proficient language. Used to automate cybersecurity tooling as well as with AI development utilizing frameworks like Langchain."
+    summary: "Highly proficient; often used for scripting automation tasks, interacting with APIs, and exploring AI/ML concepts with frameworks like Langchain."
     categories: ["basic", "language"]
 
   - name: Cloud Providers
     logo: images/sections/skills/cloud.png
-    summary: "Experienced in AWS, GCP, and Azure"
+    summary: "Hands-on experience deploying and managing infrastructure and applications across AWS, GCP, and Azure, leveraging their core compute, networking, and storage services."
     categories: ["others"]
 
   - name: Docker
     logo: images/sections/skills/docker.svg
-    summary: "Docker is an integral part of my testing pipeline. Used primarily for quick deployment and iterative development."
+    summary: "Essential part of my workflow for containerizing applications. Used daily for local development, testing, and building consistent artifacts for deployment pipelines."
     categories: ["infrastructure"]
     url: "https://www.docker.com/"
 
   - name: Prometheus
     logo: images/sections/skills/prometheus.png
-    summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+    summary: "Key tool for gaining observability. Experienced setting up monitoring, writing PromQL queries, configuring Alertmanager, and even building custom exporters when needed."
     categories: ["basic"]
     url: "https://prometheus.io/"
 
   - name: Grafana
     logo: images/sections/skills/grafana.png
-    summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+    summary: "Used alongside Prometheus and Loki to visualize system metrics and logs. Comfortable building dashboards to make sense of operational data and track application performance."
     categories: ["basic"]
-    url: "https://prometheus.io/"
 
   - name: Argocd
     logo: images/sections/skills/argocd.png
-    summary: "I host my own Argocd server on my local cluster. Used primarily in conjunction with forgejo for CI/CD operations."
+    summary: "Powering GitOps workflows both professionally and on my homelab cluster. Used with Forgejo/GitHub Actions for automated, declarative continuous deployment to Kubernetes."
     categories: ["basic"]
-    url: "https://prometheus.io/"
 
   - name: Ansible
     logo: images/sections/skills/ansible.png
-    summary: "TBD"
+    summary: "Leveraged for configuration management and automating setup tasks across servers, ensuring consistency and simplifying repetitive operations."
     categories: ["basic"]
-    url: "https://prometheus.io/"
 
   - name: Linux
     logo: images/sections/skills/linux.png
-    summary: "My main OS. Experienced with bash scripting and at home on a terminal. (I use Arch btw)"
+    summary: "My daily driver OS. Very comfortable in the terminal, writing bash scripts, and navigating Linux systems. (I use Arch btw)."
     categories: ["others"]
 
   - name: Git
     logo: images/sections/skills/git.png
-    summary: "Experienced with git-based development. Self-host my own forgejo git server for local CI/CD workflows"
+    summary: "Fundamental for version control in all projects. Experienced with various workflows and managing CI/CD pipelines triggered by Git events (including on my self-hosted Forgejo instance)."
     categories: ["basic"]
     url: "https://git-scm.com/"
 
+  - name: Helm
+    logo: images/sections/skills/helm.png
+    summary: "Used frequently for packaging, deploying, and managing Kubernetes applications. Comfortable creating and customizing Helm charts to streamline application lifecycle management on K8s."
+    categories: ["basic", "language"]
+
+  - name: Github Actions
+    logo: images/sections/skills/githubactions.png
+    summary: "My primary tool for building CI/CD pipelines directly within GitHub. Experienced creating workflows for automated testing, building container images, infrastructure validation (Terraform plan/apply), and triggering deployments (e.g., updating ArgoCD)."
+    categories: ["basic", "language"]
+
   - name: C++
     logo: images/sections/skills/c++.png
-    summary: "Basic familiarity with C++. Used primarily to learn about Windows Internals, malware reverse engineering, and development."
+    summary: "Explored primarily out of interest in lower-level systems, including Windows internals, malware analysis techniques, and reverse engineering."
     categories: ["basic", "language"]
