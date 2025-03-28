@@ -4,6 +4,9 @@ title: Ghostfrnd
 params:
   background: "images/site/midnight-reflections-moonlit-sea.jpg"
   darkBackground: "images/site/midnight-reflections-moonlit-sea.jpg"
+  features:
+    darkMode:
+      enable: true
 
 module:
   imports:
