@@ -1,0 +1,29 @@
+# Hugo output and generated resources
+/public/
+/resources/
+.hugo_build.lock
+
+# Hugo Modules vendor directory
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables
+.env*
+!.env.example # Often useful to commit an example env file
+
+# Node dependencies (if applicable)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Add any other temporary files or logs specific to your setup
