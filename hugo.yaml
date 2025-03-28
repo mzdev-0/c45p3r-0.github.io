@@ -1,6 +1,9 @@
-baseURL: https://example.org/
+baseURL: https://whois.ghostfrnd.co
 languageCode: en-us
-title: GhostFrnd's Portfolio
+title: Ghostfrnd
+params:
+  background: "images/site/midnight-reflections-moonlit-sea.jpg"
+  darkBackground: "images/site/midnight-reflections-moonlit-sea.jpg"
 
 module:
   imports:
@@ -12,3 +15,5 @@ module:
       target: static/files
     - source: ./node_modules/katex/dist/fonts
       target: static/fonts
+    - source: static/files
+      target: static/files
