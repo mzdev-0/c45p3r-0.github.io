@@ -7,14 +7,14 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # your designation
-designation: Devops Engineer
+designation: DevOps Engineer
 # your company information
 company:
   name: Ghostfrnd, LLC
-  url: "https://ghostfrnd.co"
+  url: "https://whois.ghostfrnd.co"
 
 # a summary about you
-summary: "Personable, versatile and self-motivated technical professional with expertise in virtualization, automation, and security, recognized for patience and strong problem solving skills. After a career on the Systems Admin and Engineer, I decided to teach myself Devops. In doing so I accidentally created a production-level environment in my home lab."
+summary: "Hi, I'm Michael, a naturally curious and self-taught tech guy currently working as a DevOps Engineer. My day-to-day involves automating infrastructure (think Terraform, Kubernetes, CI/CD) and ensuring systems run smoothly. With a background touching various corners of IT over the last 10 years, I bring a practical, hands-on approach. Outside of work, this translates into a serious self-hosting habit and a commitment to privacy. Essentially, I love building cool things and understanding how they tick."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -33,9 +33,8 @@ socialLinks:
 
 # your resume. this file path should be relative to you "static" directory
 resourceLinks:
-  - title:
-      "Resume"
-      #  url: "files/resume.pdf"
+  - title: "Resume"
+    url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -47,9 +46,9 @@ badges:
     badge: "https://training.linuxfoundation.org/wp-content/uploads/2018/06/logo_cka_whitetext.png"
 
   - type: certification
-    name: Azure Administrator Associate
+    name: Terraform Certified Associate
     url: "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"
-    badge: "https://intunedin.net/wp-content/uploads/2020/09/azure-administrator-associate-600x600-1.png?w=600"
+    badge: "https://images.credly.com/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob"
 
   - type: certification
     name: Hack the Box Penetration testing Specialist
