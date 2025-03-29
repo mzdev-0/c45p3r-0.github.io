@@ -7,6 +7,8 @@ params:
   features:
     darkMode:
       enable: true
+  logo:
+    favicon: /images/site/favicon.png
 
 module:
   imports:
