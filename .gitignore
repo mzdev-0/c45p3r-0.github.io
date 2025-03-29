@@ -1,6 +1,6 @@
 # Hugo output and generated resources
-/public/
-/resources/
+public/
+resources/
 .hugo_build.lock
 
 # Hugo Modules vendor directory
