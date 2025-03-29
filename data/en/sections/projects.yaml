@@ -42,7 +42,6 @@ projects:
     logo: /images/sections/skills/cloud.png
     role: Owner
     timeline: "March 2024 - Present"
-    repo: https://github.com/tensorflow/tensorflow
     #url: ""
     summary: So, I accidentally built my own private cloud. Tired of subscriptions and attacks on my privacy, I started self-hosting a simple media server using only hardware I had laying around. One thing led to another and now I have a hypervisor, k8s cluster, and GitOps pipelines humming away on ancient gear cobbled together with shoestrings and a disdain for spending even a penny. Now it runs my entire digital life.
     tags: ["academic", "cloud", "kubernetes", "terraform", "infrastructure"]
@@ -51,16 +50,13 @@ projects:
     logo: /images/sections/projects/no-code.png
     role: Owner
     timeline: "Nov 2023 - Present"
-    repo: https://github.com/kelseyhightower/nocode
     #url: ""
     summary: Essentially everything from all your favorite streaming services available in a central location, all hosted locally at home. Complete with automated media procurement and storage management. All monitored with Prometheus & Grafana.
     tags: ["hobby", "fun", "media", "monitoring", "infrastructure"]
 
   - name: Local AI Chatbot Web Application
     logo: /images/sections/projects/toha.png
-    image: /images/sections/projects/toha_website.png
     role: Developer
     timeline: "Nov 2024 - Present"
-    repo: https://github.com/hossainemruz/toha
     summary: In an effort to maintain some semblance of privacy, I built my own inference server out of several nvidia GPUs, then I customized OpenWebUI with my own RAG pipeline in order to better utilize the plethora of notes I've accumulated over time.
     tags: ["hobby", "AI", "Web Development", "RAG"]
