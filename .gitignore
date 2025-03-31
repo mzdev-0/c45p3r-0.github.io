@@ -19,6 +19,7 @@ Thumbs.db
 # Environment variables
 .env*
 !.env.example # Often useful to commit an example env file
+.test
 
 # Node dependencies (if applicable)
 node_modules/
